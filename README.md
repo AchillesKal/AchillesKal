@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-[![AchillesKal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchillesKal&theme=dracula&hide=html,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![AchillesKal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchillesKal&theme=dracula&hide=html,shell)]
 
-[![AchillesKal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesKal&theme=dracula&hide=html,shell)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![AchillesKal's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesKal&theme=dracula&hide=html,shell)]
 
 
 <!--
